@@ -47,7 +47,7 @@
 ### 🔑 Step 2: Generate Your Pairing Code
 
 <div align="center">
-  <a href='frankkaumba.gamer.gd/sessionid.html' target="_blank">
+  <a href='https://frankkaumba.gamer.gd/sessionid.html' target="_blank">
     <img src='https://img.shields.io/badge/GET_PAIRING_CODE-0000FF?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=black' alt='Get Pairing Code'>
   </a>
 </div>
